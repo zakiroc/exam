@@ -1,0 +1,425 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    background-color:  #490404;
+    width: 1536px;
+    height: 100px;
+
+}
+.logo{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 33px;
+}
+ul{
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+}
+.a-1{
+    position: absolute;
+    margin-left: 310px;
+    margin-top: 40px;
+}
+.a-2{
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 40px;
+}
+.a-3{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 40px;
+}
+i{
+  font-size: 30px;
+ /* position: absolute; */
+
+
+ 
+}
+.icons{
+    display: flex;
+}
+.logo-1{
+    margin-left: 1200px;
+    margin-top: 30px;
+}
+.logo-2{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.logo-3{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.logo-4{
+    margin-top: 30px;
+    margin-left: 20px
+}
+.h1-1{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 51px;
+    margin-left: 140px;
+   position: absolute;
+   margin-top: 70px;
+
+}
+.p-1{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 230px;
+}
+.container-2{
+    width: 1536px;
+    height: 3200px;
+    background-color: black;
+    position: absolute;
+}
+.img-1{
+    position: absolute;
+    margin-left: 750px;
+    width: 664.39px;
+    margin-top: 100px;
+}
+button{
+    width: 203.59px;
+    height: 60px;
+    background-color:  #8DFD1B;
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 140px;
+    
+
+
+}
+.h1-2{
+    font-family: "Roboto", sans-serif;
+    font-size: 38px;   
+    position: absolute;
+    color: white;
+    margin-top: 700px;
+    margin-left: 670px;
+}
+.one{
+    width: 539px;
+    height: 70px;
+    background-color: black;
+   
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 1000px;
+    left: 480px;
+    
+
+
+}
+.two{
+    width: 538.5px;
+    height: 199.5px;
+    background-color: black;
+   
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 68px;
+    
+    
+    
+
+
+}
+.third{
+    width: 539px;
+    height: 70px;
+    background-color: black;
+    
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 1500px;
+    left: 480px;
+    
+
+
+}
+.four{
+    width: 538.5px;
+    height: 199.5px;
+    background-color: black;
+   
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 65px;
+}
+.rectangle{
+    position: absolute;
+}
+.five{
+    width: 539px;
+    height: 70px;
+    background-color: black;
+  
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 2000px;
+    left: 480px;
+    
+
+
+}
+.six{
+    width: 538.5px;
+    height: 199.5px;
+    background-color: black;
+   
+    position: absolute;
+    border: 2px solid greenyellow;
+    top: 65px;
+}
+.p-2{
+    color: white;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    left: 30px;
+    top: 20px;
+}
+.p-3{
+    color: white;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    left: 30px;
+    top: 20px;
+}
+.p-4{
+    color: white;
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    left: 30px;
+    top: 20px;
+}
+.image-11{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.image-22{
+    margin-left: 400px;
+    margin-top: 20px;
+   
+}
+.image-33{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.rect{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 1250px;
+}
+.rect-2{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 1750px;
+}
+.decor{
+    position: absolute;
+    margin-top: 600px;
+    
+}
+.decor-2{
+    position: absolute;
+    margin-top: 1200px;
+    margin-left: 850px;
+    
+}
+.decor-3{
+    position: absolute;
+    margin-top: 1600px;
+   
+    
+}
+.ART{
+    font-family: "Roboto", sans-serif;
+    color: white;
+    position: absolute;
+    margin-top: 2250px;
+    margin-left: 650px;
+    font-size: 60px;
+}
+.picture{
+    position: absolute;
+    margin-top:2500px ;
+    margin-left: 100px;
+}
+.picture-2{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 2500px;
+
+}
+.picture-3{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 2500px;
+}
+.name{
+    margin-top: 2800px;
+    color: white;
+    position: absolute;
+    margin-left: 170px;
+     font-family: "Roboto", sans-serif;
+}
+.name-2{
+    margin-top: 2800px;
+    color: white;
+    position: absolute;
+    margin-left: 670px;
+     font-family: "Roboto", sans-serif;
+}
+
+.name-3{
+    margin-top: 2800px;
+    color: white;
+    position: absolute;
+    margin-left: 1190px;
+     font-family: "Roboto", sans-serif;
+}
+.green{
+    position: absolute;
+    color: #8DFD1B;
+    margin-top: 2850px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 220px;
+}
+.green-2{
+    position: absolute;
+    color: #8DFD1B;
+    margin-top: 2850px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 700px;
+}
+.green-3{
+    position: absolute;
+    color: #8DFD1B;
+    margin-top: 2850px;
+    font-family: "Roboto", sans-serif;
+    margin-left: 1220px;
+}
+.logo-66{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 210px;
+}
+.logo-55{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 270px;
+}
+.logo-77{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 700px;
+}
+.logo-88{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 760px;
+}
+.logo-99{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 1220px;
+}
+.logo-44{
+    margin-top: 2930px;
+    position: absolute;
+    margin-left: 1280px;
+}
+.p-11{
+    position: absolute;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin-top: 2950px;
+    margin-left: 120px;
+}
+.p-22{
+    position: absolute;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin-top: 2950px;
+    margin-left: 620px;
+}
+
+.p-33{
+    position: absolute;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin-top: 2950px;
+    margin-left: 1150px;
+}
+.footer{
+    background-color: #42006A;
+    width: 1530px;
+    height: 238px;
+position: absolute;
+margin-top: 3100px;
+
+}
+.meta{
+    position: absolute;
+   margin-left: 140px;
+   margin-top: 101px;
+}
+.a-11{
+    margin-left: 350px;
+    margin-top: 101px;
+}
+.a-22{
+    position: absolute;
+margin-left: 100px;
+margin-top: 101px;
+
+}
+.a-33{
+margin-left: 300px;
+position: absolute;
+margin-top: 101px;
+
+}
+
+.logo99{
+    margin-left: 700px;
+    position: absolute;
+    margin-top: 101px;
+    
+}
+.logo22{
+    margin-left: 750px;
+    position: absolute;
+    margin-top: 101px;
+}
+.logo33{
+    margin-left: 800px;
+    position: absolute;
+    margin-top: 101px;
+}
+
+.logo44{
+    margin-left: 850px;
+    position: absolute;
+    margin-top: 101px;
+}
